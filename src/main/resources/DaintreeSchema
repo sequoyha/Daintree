@@ -1,0 +1,1 @@
+CREATE KEYSPACE daintree with replication = { 'strategy', 'SimpleStrategy'
